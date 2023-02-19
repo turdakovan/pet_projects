@@ -7,4 +7,4 @@
 
 Скрипт python внедрён в MS PowerBI
 ## Используемые библиотеки и инстументы
-*pandas*, *requests*, *Microsoft PowerBI*
+*pandas*, *requests*, *MS PowerBI*
