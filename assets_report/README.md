@@ -6,3 +6,5 @@
 Данные загружены, предобработаны с помощью python и визуализированы в MS PowerBI.
 
 Скрипт python внедрён в MS PowerBI
+## Используемые библиотеки и инстументы
+*pandas*, *requests*, *Microsoft PowerBI*
